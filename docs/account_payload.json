@@ -1,0 +1,11 @@
+{
+  "name": "Supper Name",
+  "email": "god@agroup07.ru",
+  "login": "god",
+  "pwd": "1234",
+  "roles": [
+    "admin",
+    "user"
+  ],
+  "active": true
+}

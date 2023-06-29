@@ -1,0 +1,7 @@
+port: 3030
+log_level: "error"
+db_network: "tcp"
+db_addr: "localhost:5432"
+db_user: "postgres"
+db_password: "agroup"
+db_database: "postgres"

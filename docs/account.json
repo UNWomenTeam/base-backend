@@ -1,0 +1,15 @@
+{
+  "id": 5,
+  "created_at": "2023-06-29T12:24:55.178723249+03:00",
+  "updated_at": "2023-06-29T12:24:55.178723249+03:00",
+  "last_login": "2023-06-29T09:24:54.161361Z",
+  "login": "root23",
+  "pwd": "ert",
+  "email": "sf@dff.ffg",
+  "name": "123",
+  "active": true,
+  "roles": [
+    "admin",
+    "user"
+  ]
+}

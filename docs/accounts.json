@@ -1,0 +1,33 @@
+{
+  "accounts": [
+    {
+      "id": 2,
+      "created_at": "2023-06-28T09:20:49.147522Z",
+      "updated_at": "2023-06-28T09:20:49.147522Z",
+      "last_login": "2023-06-28T09:20:49.147522Z",
+      "login": "user",
+      "pwd": "agroup07",
+      "email": "user@agroup07.ru",
+      "name": "User Boot",
+      "active": true,
+      "roles": [
+        "user"
+      ]
+    },
+    {
+      "id": 1,
+      "created_at": "2023-06-28T09:20:49.147522Z",
+      "updated_at": "2023-06-28T09:20:49.147522Z",
+      "last_login": "2023-06-29T08:36:19.635924Z",
+      "login": "root",
+      "pwd": "agroup",
+      "email": "admin@agroup07.ru",
+      "name": "Admin Boot",
+      "active": true,
+      "roles": [
+        "admin"
+      ]
+    }
+  ],
+  "count": 2
+}
